@@ -1,0 +1,8 @@
+-->
+delete specific char from string 
+get char output from user using scanner class
+print updated String
+
+eg : swimming
+char m for delete
+output :-swiing 
