@@ -1,0 +1,67 @@
+						Exception Handling....
+
+what is Exception ?
+
+Exception is logical or programmer misatke but it's not syntex mistake called exception !!
+
+10 / 0  ->infinte error
+
+
+show is full
+
+server down !!!
+
+-->we have to handle the exception  --->
+
+
+what is an error?
+an error is an illiagal operation performed by programmer.
+
+int a 
+
+system.out.println()  -->error
+
+
+-->we have to solve the error to run programme !!!
+
+
+						THhrowable --> interface
+
+
+					child class  1)Error    Exception
+
+									Arithm
+
+
+
+
+
+
+HOW MANY WAYS TO HANDLE EXCEPTION?
+
+THERE ARE 2 WAYS 
+
+
+1)try catch and finally block....
+
+
+		try is block
+		catch is block
+		finally is block
+		try{}
+		
+
+after try block we must to add either catch or finally
+
+
+
+2)throws keyword
+
+
+NullPointer exception
+
+
+String s = null;  -->
+s.length(); null pointer exception
+NullPointerException
+

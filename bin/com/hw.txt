@@ -5,4 +5,12 @@ print updated String
 
 eg : swimming
 char m for delete
-output :-swiing 
+output :-swiing
+
+
+01/10/2021
+
+hw.
+ArryIndexOutOfBound Exception  
+
+->why this exceptoion occure and handle it in homework !!! 
