@@ -13,4 +13,14 @@ output :-swiing
 hw.
 ArryIndexOutOfBound Exception  
 
-->why this exceptoion occure and handle it in homework !!! 
+->why this exceptoion occure and handle it in homework !!!
+
+
+create one user define method get input from user 
+eg:pls enter your marks
+
+int marks 
+hundred
+
+and throws exception from user define method
+and call that method from main method  handle exception 

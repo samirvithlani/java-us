@@ -50,6 +50,9 @@ THERE ARE 2 WAYS
 		finally is block
 		try{}
 		
+		
+		
+		
 
 after try block we must to add either catch or finally
 
@@ -64,4 +67,30 @@ NullPointer exception
 String s = null;  -->
 s.length(); null pointer exception
 NullPointerException
+
+we have 2 type of exception
+
+1)compile time exception
+2)run time exception  --> runtime exception
+
+
+
+how many try block --> N
+how many catch block we can create after try block  -> N
+how many finally block we can create after try block- > only 1
+ 
+
+compile time exception
+
+if any method throws exception and we call that method 
+we will get compile time exception
+
+
+
+
+
+
+
+
+
 

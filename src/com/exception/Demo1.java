@@ -9,8 +9,7 @@ public class Demo1 {
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
-		String s =null;
-		System.out.println(s.length());
+		
 		try {
 			System.out.println("pls enter no ");
 			int no = sc.nextInt();
