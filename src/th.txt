@@ -85,6 +85,31 @@ compile time exception
 if any method throws exception and we call that method 
 we will get compile time exception
 
+Array ->
+
+An Array is a group of liked typed variables that are refered by a common name.
+Since array are object in java we can use methods of Array class.
+
+
+Array is non-primitive data type in java,array is a class..
+
+primitive data type does not have methods..
+
+
+int x = 10;
+x.lenth()
+x.toUpperCase()
+
+and non primirive datatype have methods..
+
+
+
+
+
+
+
+
+
 
 
 
