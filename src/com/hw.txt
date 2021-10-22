@@ -23,4 +23,14 @@ int marks
 hundred
 
 and throws exception from user define method
-and call that method from main method  handle exception 
+and call that method from main method  handle exception
+
+
+Create array list for store 5 employees and take data of employees from scanner class
+
+and remove employee of user choice.....
+
+
+
+
+ 
